@@ -2,7 +2,7 @@
 
 <img src="assets/github_cloud_wide.gif" width="100%" alt="Animated fantasy night sky with a developer on clouds, a sleeping cat, and a small robot cat" />
 
-# Hi, I'm @Arty1909 👋
+# Hi, I'm Arty 👋
 
 **I build playful apps, interactive experiences, and interfaces with personality.**
 
