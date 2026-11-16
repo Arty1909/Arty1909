@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="assets/github_cloud_wide.gif" width="100%" alt="Animated fantasy night sky with a developer on clouds, a sleeping cat, and a small robot cat" />
+
 # Hi, I'm @Arty1909 👋
 
 **I build playful apps, interactive experiences, and interfaces with personality.**
-
-<img src="assets/waving-cat.gif" width="320" alt="An original animated cat waving both paws" />
 
 <br />
 
@@ -44,4 +44,4 @@ I'm **open to freelance development work**: apps, custom UI, interactive stories
 
 Send a short note to **[ooxford511@gmail.com](mailto:ooxford511@gmail.com?subject=Project%20inquiry)** with your idea, target platform, and approximate timeline. I'll be glad to discuss the details.
 
-<div align="center"><sub>Thanks for stopping by ✨ The waving cat above was made for this profile.</sub></div>
+<div align="center"><sub>Thanks for stopping by ✨</sub></div>
