@@ -28,7 +28,7 @@ I'm **open to freelance development work**: apps, custom UI, interactive stories
 | --- | --- |
 | [🗝️ Between Worlds](https://github.com/Arty1909/Between-Worlds) | An offline branching fantasy visual novel with choices, puzzles, illustrated scenes, and multiple endings. |
 | [📱 Between Worlds · Flutter](https://github.com/Arty1909/Between-Worlds-Flutter) | The same story adapted to a Flutter interface for desktop and mobile screens. |
-| [🎵 Music Player](https://github.com/Arty1909/Music_player) | A Flutter audio player with a glass-style interface. |
+| [🎵 Glass Player](https://github.com/Arty1909/Music_player) | A Flutter audio player with a glass-style interface. |
 
 <details>
 <summary><strong>🌙 The kind of work I love</strong></summary>
